@@ -1,0 +1,31 @@
+ ;123457;CD;Divide;Drittes Album des Künstlers;Ed Sheeran;47
+ ; ;CD;Helene Fischer;Das lange erwartete Album der beispiellosen Künstlerin;Helene Fischer;56
+2;123457;KonsolenVideospiel;The Last of Us; Eines der bestbewerteten Videospiele überhaupt;Playstation 4
+ ; ;DVD;Pirates of the Caribbean - Am Ende der Welt;Abenteuer des Cpt. Jack Sparrow;Gore Verbinski;160
+ ; ;CD;The Classics;Filmmusik von Hans Zimmer interpretiert von diversen Künstlern.;Hans Zimmer;70
+ ; ;CD;Wincing the Night Away;Die fleißigsten Slacker der Indie-Szene ;the Shins;69
+ ; ;DVD;Thor: Tag der Entscheidung;Thor verliert seinen Hammer! Wie soll er jetzt die Welt retten?;Taika Waititi;140
+ ; ;DVD;James Bond - Spectre;James Bond muss sich ein weiteres mal beweisen;Sam Mendes;148
+ ; ;CD;Evolve;gut;Imagine Dragons;43
+3;123456;DVD;Thor: Tag der Entscheidung;Thor verliert seinen Hammer. Wie soll er jetzt die Welt retten?;Taika Waititi;140
+1;123460;KonsolenVideospiel;Dark Souls III;Kein Spiel für jemanden mit einem niedrigen Frustrationslevel;Xbox One
+ ; ;PCVideospiel;Rainbow Six Siege;Der gefeierte Taktik-Shooter;Windows 7/8/10
+24;123456;CD;Hard candy;besser;Madonna;65
+ ; ;DVD;Shape of Water;Der mit einem Oscar ausgezeichnete Blockbuster;Guillermo Del Toro;110
+ ; ;PCVideospiel;League of Legends;Ein Konkurrent zum Salar de Uyuni...;Mac OSX
+ ; ;DVD;Pirates of the Caribbean - Salazars Rache;Ein weiters Abenteuer von Cpt. Jack Sparrow;Espen Sandberg;160
+ ; ;CD;Gute Nacht;Sechstes Soloalbum;Kontra K;56
+ ; ;DVD;James Bond - Ein Quantum Trost;Ein Quantum Trost setzt da an, wo Casino Royale endet;Marc Forster;110
+ ; ;DVD;Dunkirk;Mit einer Bewertung von 83% auf Rotten Tomatoes einer der besten Filme 2017;Christopher Nolan;107
+ ; ;KonsolenVideospiel;FIFA 18;Geh in FIFA 18 auf den Platz und spiel professionellen Fußball, so wie du ihn dir vorstellst.;Playstation 4
+ ; ;KonsolenVideospiel;Mario Kart; Neue Strecken, neue Rennfahrer, neue Fahrzeuge und 12-Spieler-Rennen; Wii
+ ; ;PCVideospiel;Dota 2;Das erste MOBA von Valve;Windows 7/8/10
+ ; ;PCVideospiel;Grand Theft Auto V;Uncut;Windows 7/8/10
+ ; ;Videospiel;The Witcher 3 - Wild Hunt;Der krönende Abschluss einer Saga.;Playstation 4
+ ; ;Videospiel;Mario Kart; Neue Strecken, neue Rennfahrer, neue Fahrzeuge und 12-Spieler-Rennen; Wii
+ ; ;Videospiel;Rainbow Six Siege;Der gefeierte Taktik-Shooter;Windows 7/8/10
+ ; ;Videospiel;Grand Theft Auto V;Uncut;Windows 7/8/10
+ ; ;Videospiel;Call of Duty - WWII;Laden und entsichern, Soldat!;Windows 7/8/10
+1;123460;Videospiel;Resident Evil 5;Chris Redfield, der bekannte Titelheld aus Resident Evil, ist dem Bösen rund um den Globus auf den Fersen;Xbox One
+ ; ;Videospiel;World of Warcraft;Der Aufstieg des Lichkönigs; Mac OS X
+2;123457;Videospiel;The Last of Us; Eines der bestbewerteten Videospiele überhaupt;Playstation 4

@@ -1,0 +1,1390 @@
+Vorgang: Rueckgabevorgang Details: 
+DVD:
+    Titel: Thor: Tag der Entscheidung
+    Kommentar: Thor verliert seinen Hammer. Wie soll er jetzt die Welt retten?
+    Regisseur: Taika Waititi
+    Laufzeit: 140
+am 1.5.2024 verliehen an
+    Kundennummer: 123456
+    Name: Susi Sonnenschein
+    Telefon: unbekannt
+    Anschrift:
+    Sonnenallee 20
+    22760 Hamburg
+
+Vorgang: Rueckgabevorgang Details: 
+Videospiel:
+    Titel: The Last of Us
+    Kommentar:  Eines der bestbewerteten Videospiele überhaupt
+    System: Playstation 4
+am 2.5.2024 verliehen an
+    Kundennummer: 123457
+    Name: Kai Konrad
+    Telefon: unbekannt
+    Anschrift:
+    Kannenweg 23
+    21868 Stade
+
+Vorgang: Rueckgabevorgang Details: 
+CD:
+    Titel: Hard candy
+    Kommentar: besser
+    Interpret: Madonna
+    Spiellänge: 65
+am 10.4.2024 verliehen an
+    Kundennummer: 123456
+    Name: Susi Sonnenschein
+    Telefon: unbekannt
+    Anschrift:
+    Sonnenallee 20
+    22760 Hamburg
+
+Vorgang: Rueckgabevorgang Details: 
+Videospiel:
+    Titel: Dark Souls III
+    Kommentar: Kein Spiel für jemanden mit einem niedrigen Frustrationslevel
+    System: Xbox One
+am 3.5.2024 verliehen an
+    Kundennummer: 123460
+    Name: Katarina Klum
+    Telefon: unbekannt
+    Anschrift:
+    Ottensener Strasse 10
+    22761 Hamburg
+
+Vorgang: Rueckgabevorgang Details: 
+Videospiel:
+    Titel: The Last of Us
+    Kommentar:  Eines der bestbewerteten Videospiele überhaupt
+    System: Playstation 4
+am 2.5.2024 verliehen an
+    Kundennummer: 123457
+    Name: Kai Konrad
+    Telefon: unbekannt
+    Anschrift:
+    Kannenweg 23
+    21868 Stade
+
+Vorgang: Rueckgabevorgang Details: 
+CD:
+    Titel: Hard candy
+    Kommentar: besser
+    Interpret: Madonna
+    Spiellänge: 65
+am 10.4.2024 verliehen an
+    Kundennummer: 123456
+    Name: Susi Sonnenschein
+    Telefon: unbekannt
+    Anschrift:
+    Sonnenallee 20
+    22760 Hamburg
+
+Vorgang: Rueckgabevorgang Details: 
+CD:
+    Titel: Divide
+    Kommentar: Drittes Album des Künstlers
+    Interpret: Ed Sheeran
+    Spiellänge: 47
+am 4.5.2024 verliehen an
+    Kundennummer: 123457
+    Name: Kai Konrad
+    Telefon: unbekannt
+    Anschrift:
+    Kannenweg 23
+    21868 Stade
+
+Vorgang: Rueckgabevorgang Details: 
+DVD:
+    Titel: Thor: Tag der Entscheidung
+    Kommentar: Thor verliert seinen Hammer. Wie soll er jetzt die Welt retten?
+    Regisseur: Taika Waititi
+    Laufzeit: 140
+am 1.5.2024 verliehen an
+    Kundennummer: 123456
+    Name: Susi Sonnenschein
+    Telefon: unbekannt
+    Anschrift:
+    Sonnenallee 20
+    22760 Hamburg
+
+Vorgang: Ausleihvorgang Details: 
+CD:
+    Titel: Divide
+    Kommentar: Drittes Album des Künstlers
+    Interpret: Ed Sheeran
+    Spiellänge: 47
+am 4.5.2024 verliehen an
+    Kundennummer: 123456
+    Name: Susi Sonnenschein
+    Telefon: unbekannt
+    Anschrift:
+    Sonnenallee 20
+    22760 Hamburg
+
+Vorgang: Ausleihvorgang Details: 
+DVD:
+    Titel: Pirates of the Caribbean - Salazars Rache
+    Kommentar: Ein weiters Abenteuer von Cpt. Jack Sparrow
+    Regisseur: Espen Sandberg
+    Laufzeit: 160
+am 4.5.2024 verliehen an
+    Kundennummer: 123456
+    Name: Susi Sonnenschein
+    Telefon: unbekannt
+    Anschrift:
+    Sonnenallee 20
+    22760 Hamburg
+
+Vorgang: Ausleihvorgang Details: 
+DVD:
+    Titel: Thor: Tag der Entscheidung
+    Kommentar: Thor verliert seinen Hammer. Wie soll er jetzt die Welt retten?
+    Regisseur: Taika Waititi
+    Laufzeit: 140
+am 4.5.2024 verliehen an
+    Kundennummer: 123456
+    Name: Susi Sonnenschein
+    Telefon: unbekannt
+    Anschrift:
+    Sonnenallee 20
+    22760 Hamburg
+
+Vorgang: Ausleihvorgang Details: 
+CD:
+    Titel: The Classics
+    Kommentar: Filmmusik von Hans Zimmer interpretiert von diversen Künstlern.
+    Interpret: Hans Zimmer
+    Spiellänge: 70
+am 4.5.2024 verliehen an
+    Kundennummer: 123456
+    Name: Susi Sonnenschein
+    Telefon: unbekannt
+    Anschrift:
+    Sonnenallee 20
+    22760 Hamburg
+
+Vorgang: Ausleihvorgang Details: 
+CD:
+    Titel: Wincing the Night Away
+    Kommentar: Die fleißigsten Slacker der Indie-Szene 
+    Interpret: the Shins
+    Spiellänge: 69
+am 4.5.2024 verliehen an
+    Kundennummer: 123456
+    Name: Susi Sonnenschein
+    Telefon: unbekannt
+    Anschrift:
+    Sonnenallee 20
+    22760 Hamburg
+
+Vorgang: Ausleihvorgang Details: 
+Videospiel:
+    Titel: Dota 2
+    Kommentar: Das erste MOBA von Valve
+    System: Windows 7/8/10
+am 4.5.2024 verliehen an
+    Kundennummer: 123456
+    Name: Susi Sonnenschein
+    Telefon: unbekannt
+    Anschrift:
+    Sonnenallee 20
+    22760 Hamburg
+
+Vorgang: Ausleihvorgang Details: 
+DVD:
+    Titel: Pirates of the Caribbean - Am Ende der Welt
+    Kommentar: Abenteuer des Cpt. Jack Sparrow
+    Regisseur: Gore Verbinski
+    Laufzeit: 160
+am 4.5.2024 verliehen an
+    Kundennummer: 123456
+    Name: Susi Sonnenschein
+    Telefon: unbekannt
+    Anschrift:
+    Sonnenallee 20
+    22760 Hamburg
+
+Vorgang: Ausleihvorgang Details: 
+CD:
+    Titel: Helene Fischer
+    Kommentar: Das lange erwartete Album der beispiellosen Künstlerin
+    Interpret: Helene Fischer
+    Spiellänge: 56
+am 4.5.2024 verliehen an
+    Kundennummer: 123456
+    Name: Susi Sonnenschein
+    Telefon: unbekannt
+    Anschrift:
+    Sonnenallee 20
+    22760 Hamburg
+
+Vorgang: Ausleihvorgang Details: 
+CD:
+    Titel: Hard candy
+    Kommentar: besser
+    Interpret: Madonna
+    Spiellänge: 65
+am 4.5.2024 verliehen an
+    Kundennummer: 123456
+    Name: Susi Sonnenschein
+    Telefon: unbekannt
+    Anschrift:
+    Sonnenallee 20
+    22760 Hamburg
+
+Vorgang: Ausleihvorgang Details: 
+Videospiel:
+    Titel: League of Legends
+    Kommentar: Ein Konkurrent zum Salar de Uyuni...
+    System: Mac OSX
+am 4.5.2024 verliehen an
+    Kundennummer: 123456
+    Name: Susi Sonnenschein
+    Telefon: unbekannt
+    Anschrift:
+    Sonnenallee 20
+    22760 Hamburg
+
+Vorgang: Ausleihvorgang Details: 
+Videospiel:
+    Titel: Mario Kart
+    Kommentar:  Neue Strecken, neue Rennfahrer, neue Fahrzeuge und 12-Spieler-Rennen
+    System:  Wii
+am 4.5.2024 verliehen an
+    Kundennummer: 123456
+    Name: Susi Sonnenschein
+    Telefon: unbekannt
+    Anschrift:
+    Sonnenallee 20
+    22760 Hamburg
+
+Vorgang: Ausleihvorgang Details: 
+Videospiel:
+    Titel: Grand Theft Auto V
+    Kommentar: Uncut
+    System: Windows 7/8/10
+am 4.5.2024 verliehen an
+    Kundennummer: 123456
+    Name: Susi Sonnenschein
+    Telefon: unbekannt
+    Anschrift:
+    Sonnenallee 20
+    22760 Hamburg
+
+Vorgang: Ausleihvorgang Details: 
+DVD:
+    Titel: Pirates of the Caribbean - Salazars Rache
+    Kommentar: Ein weiters Abenteuer von Cpt. Jack Sparrow
+    Regisseur: Espen Sandberg
+    Laufzeit: 160
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Ausleihvorgang Details: 
+CD:
+    Titel: The Classics
+    Kommentar: Filmmusik von Hans Zimmer interpretiert von diversen Künstlern.
+    Interpret: Hans Zimmer
+    Spiellänge: 70
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Ausleihvorgang Details: 
+CD:
+    Titel: Wincing the Night Away
+    Kommentar: Die fleißigsten Slacker der Indie-Szene 
+    Interpret: the Shins
+    Spiellänge: 69
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Ausleihvorgang Details: 
+DVD:
+    Titel: Pirates of the Caribbean - Salazars Rache
+    Kommentar: Ein weiters Abenteuer von Cpt. Jack Sparrow
+    Regisseur: Espen Sandberg
+    Laufzeit: 160
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Ausleihvorgang Details: 
+CD:
+    Titel: The Classics
+    Kommentar: Filmmusik von Hans Zimmer interpretiert von diversen Künstlern.
+    Interpret: Hans Zimmer
+    Spiellänge: 70
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Ausleihvorgang Details: 
+CD:
+    Titel: Wincing the Night Away
+    Kommentar: Die fleißigsten Slacker der Indie-Szene 
+    Interpret: the Shins
+    Spiellänge: 69
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Rueckgabevorgang Details: 
+DVD:
+    Titel: Pirates of the Caribbean - Salazars Rache
+    Kommentar: Ein weiters Abenteuer von Cpt. Jack Sparrow
+    Regisseur: Espen Sandberg
+    Laufzeit: 160
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Rueckgabevorgang Details: 
+DVD:
+    Titel: Thor: Tag der Entscheidung
+    Kommentar: Thor verliert seinen Hammer. Wie soll er jetzt die Welt retten?
+    Regisseur: Taika Waititi
+    Laufzeit: 140
+am 1.5.2024 verliehen an
+    Kundennummer: 123456
+    Name: Susi Sonnenschein
+    Telefon: unbekannt
+    Anschrift:
+    Sonnenallee 20
+    22760 Hamburg
+
+Vorgang: Rueckgabevorgang Details: 
+CD:
+    Titel: The Classics
+    Kommentar: Filmmusik von Hans Zimmer interpretiert von diversen Künstlern.
+    Interpret: Hans Zimmer
+    Spiellänge: 70
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Rueckgabevorgang Details: 
+Videospiel:
+    Titel: The Last of Us
+    Kommentar:  Eines der bestbewerteten Videospiele überhaupt
+    System: Playstation 4
+am 2.5.2024 verliehen an
+    Kundennummer: 123457
+    Name: Kai Konrad
+    Telefon: unbekannt
+    Anschrift:
+    Kannenweg 23
+    21868 Stade
+
+Vorgang: Ausleihvorgang Details: 
+DVD:
+    Titel: Pirates of the Caribbean - Salazars Rache
+    Kommentar: Ein weiters Abenteuer von Cpt. Jack Sparrow
+    Regisseur: Espen Sandberg
+    Laufzeit: 160
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Rueckgabevorgang Details: 
+CD:
+    Titel: Divide
+    Kommentar: Drittes Album des Künstlers
+    Interpret: Ed Sheeran
+    Spiellänge: 47
+am 4.5.2024 verliehen an
+    Kundennummer: 123457
+    Name: Kai Konrad
+    Telefon: unbekannt
+    Anschrift:
+    Kannenweg 23
+    21868 Stade
+
+Vorgang: Rueckgabevorgang Details: 
+DVD:
+    Titel: Pirates of the Caribbean - Salazars Rache
+    Kommentar: Ein weiters Abenteuer von Cpt. Jack Sparrow
+    Regisseur: Espen Sandberg
+    Laufzeit: 160
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Rueckgabevorgang Details: 
+DVD:
+    Titel: Thor: Tag der Entscheidung
+    Kommentar: Thor verliert seinen Hammer. Wie soll er jetzt die Welt retten?
+    Regisseur: Taika Waititi
+    Laufzeit: 140
+am 1.5.2024 verliehen an
+    Kundennummer: 123456
+    Name: Susi Sonnenschein
+    Telefon: unbekannt
+    Anschrift:
+    Sonnenallee 20
+    22760 Hamburg
+
+Vorgang: Rueckgabevorgang Details: 
+Videospiel:
+    Titel: The Last of Us
+    Kommentar:  Eines der bestbewerteten Videospiele überhaupt
+    System: Playstation 4
+am 2.5.2024 verliehen an
+    Kundennummer: 123457
+    Name: Kai Konrad
+    Telefon: unbekannt
+    Anschrift:
+    Kannenweg 23
+    21868 Stade
+
+Vorgang: Rueckgabevorgang Details: 
+CD:
+    Titel: Hard candy
+    Kommentar: besser
+    Interpret: Madonna
+    Spiellänge: 65
+am 10.4.2024 verliehen an
+    Kundennummer: 123456
+    Name: Susi Sonnenschein
+    Telefon: unbekannt
+    Anschrift:
+    Sonnenallee 20
+    22760 Hamburg
+
+Vorgang: Rueckgabevorgang Details: 
+Videospiel:
+    Titel: Dark Souls III
+    Kommentar: Kein Spiel für jemanden mit einem niedrigen Frustrationslevel
+    System: Xbox One
+am 3.5.2024 verliehen an
+    Kundennummer: 123460
+    Name: Katarina Klum
+    Telefon: unbekannt
+    Anschrift:
+    Ottensener Strasse 10
+    22761 Hamburg
+
+Vorgang: Ausleihvorgang Details: 
+CD:
+    Titel: Divide
+    Kommentar: Drittes Album des Künstlers
+    Interpret: Ed Sheeran
+    Spiellänge: 47
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Ausleihvorgang Details: 
+DVD:
+    Titel: Pirates of the Caribbean - Salazars Rache
+    Kommentar: Ein weiters Abenteuer von Cpt. Jack Sparrow
+    Regisseur: Espen Sandberg
+    Laufzeit: 160
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Ausleihvorgang Details: 
+DVD:
+    Titel: Thor: Tag der Entscheidung
+    Kommentar: Thor verliert seinen Hammer. Wie soll er jetzt die Welt retten?
+    Regisseur: Taika Waititi
+    Laufzeit: 140
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Ausleihvorgang Details: 
+CD:
+    Titel: The Classics
+    Kommentar: Filmmusik von Hans Zimmer interpretiert von diversen Künstlern.
+    Interpret: Hans Zimmer
+    Spiellänge: 70
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Ausleihvorgang Details: 
+CD:
+    Titel: Wincing the Night Away
+    Kommentar: Die fleißigsten Slacker der Indie-Szene 
+    Interpret: the Shins
+    Spiellänge: 69
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Ausleihvorgang Details: 
+Videospiel:
+    Titel: Dota 2
+    Kommentar: Das erste MOBA von Valve
+    System: Windows 7/8/10
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Ausleihvorgang Details: 
+DVD:
+    Titel: Pirates of the Caribbean - Am Ende der Welt
+    Kommentar: Abenteuer des Cpt. Jack Sparrow
+    Regisseur: Gore Verbinski
+    Laufzeit: 160
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Ausleihvorgang Details: 
+CD:
+    Titel: Helene Fischer
+    Kommentar: Das lange erwartete Album der beispiellosen Künstlerin
+    Interpret: Helene Fischer
+    Spiellänge: 56
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Ausleihvorgang Details: 
+CD:
+    Titel: Hard candy
+    Kommentar: besser
+    Interpret: Madonna
+    Spiellänge: 65
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Ausleihvorgang Details: 
+Videospiel:
+    Titel: League of Legends
+    Kommentar: Ein Konkurrent zum Salar de Uyuni...
+    System: Mac OSX
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Ausleihvorgang Details: 
+Videospiel:
+    Titel: Mario Kart
+    Kommentar:  Neue Strecken, neue Rennfahrer, neue Fahrzeuge und 12-Spieler-Rennen
+    System:  Wii
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Ausleihvorgang Details: 
+Videospiel:
+    Titel: Grand Theft Auto V
+    Kommentar: Uncut
+    System: Windows 7/8/10
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Ausleihvorgang Details: 
+Videospiel:
+    Titel: Rainbow Six Siege
+    Kommentar: Der gefeierte Taktik-Shooter
+    System: Windows 7/8/10
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Ausleihvorgang Details: 
+DVD:
+    Titel: Thor: Tag der Entscheidung
+    Kommentar: Thor verliert seinen Hammer! Wie soll er jetzt die Welt retten?
+    Regisseur: Taika Waititi
+    Laufzeit: 140
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Ausleihvorgang Details: 
+CD:
+    Titel: Evolve
+    Kommentar: gut
+    Interpret: Imagine Dragons
+    Spiellänge: 43
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Ausleihvorgang Details: 
+Videospiel:
+    Titel: The Last of Us
+    Kommentar:  Eines der bestbewerteten Videospiele überhaupt
+    System: Playstation 4
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Ausleihvorgang Details: 
+CD:
+    Titel: Gute Nacht
+    Kommentar: Sechstes Soloalbum
+    Interpret: Kontra K
+    Spiellänge: 56
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Ausleihvorgang Details: 
+Videospiel:
+    Titel: FIFA 18
+    Kommentar: Geh in FIFA 18 auf den Platz und spiel professionellen Fußball, so wie du ihn dir vorstellst.
+    System: Playstation 4
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Ausleihvorgang Details: 
+DVD:
+    Titel: James Bond - Ein Quantum Trost
+    Kommentar: Ein Quantum Trost setzt da an, wo Casino Royale endet
+    Regisseur: Marc Forster
+    Laufzeit: 110
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Ausleihvorgang Details: 
+Videospiel:
+    Titel: Dark Souls III
+    Kommentar: Kein Spiel für jemanden mit einem niedrigen Frustrationslevel
+    System: Xbox One
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Ausleihvorgang Details: 
+DVD:
+    Titel: James Bond - Spectre
+    Kommentar: James Bond muss sich ein weiteres mal beweisen
+    Regisseur: Sam Mendes
+    Laufzeit: 148
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Ausleihvorgang Details: 
+DVD:
+    Titel: Dunkirk
+    Kommentar: Mit einer Bewertung von 83% auf Rotten Tomatoes einer der besten Filme 2017
+    Regisseur: Christopher Nolan
+    Laufzeit: 107
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Ausleihvorgang Details: 
+DVD:
+    Titel: Shape of Water
+    Kommentar: Der mit einem Oscar ausgezeichnete Blockbuster
+    Regisseur: Guillermo Del Toro
+    Laufzeit: 110
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Rueckgabevorgang Details: 
+CD:
+    Titel: Divide
+    Kommentar: Drittes Album des Künstlers
+    Interpret: Ed Sheeran
+    Spiellänge: 47
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Rueckgabevorgang Details: 
+DVD:
+    Titel: Pirates of the Caribbean - Salazars Rache
+    Kommentar: Ein weiters Abenteuer von Cpt. Jack Sparrow
+    Regisseur: Espen Sandberg
+    Laufzeit: 160
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Rueckgabevorgang Details: 
+DVD:
+    Titel: Thor: Tag der Entscheidung
+    Kommentar: Thor verliert seinen Hammer. Wie soll er jetzt die Welt retten?
+    Regisseur: Taika Waititi
+    Laufzeit: 140
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Rueckgabevorgang Details: 
+CD:
+    Titel: The Classics
+    Kommentar: Filmmusik von Hans Zimmer interpretiert von diversen Künstlern.
+    Interpret: Hans Zimmer
+    Spiellänge: 70
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Rueckgabevorgang Details: 
+CD:
+    Titel: Wincing the Night Away
+    Kommentar: Die fleißigsten Slacker der Indie-Szene 
+    Interpret: the Shins
+    Spiellänge: 69
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Rueckgabevorgang Details: 
+Videospiel:
+    Titel: Dota 2
+    Kommentar: Das erste MOBA von Valve
+    System: Windows 7/8/10
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Rueckgabevorgang Details: 
+DVD:
+    Titel: Pirates of the Caribbean - Am Ende der Welt
+    Kommentar: Abenteuer des Cpt. Jack Sparrow
+    Regisseur: Gore Verbinski
+    Laufzeit: 160
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Rueckgabevorgang Details: 
+CD:
+    Titel: Helene Fischer
+    Kommentar: Das lange erwartete Album der beispiellosen Künstlerin
+    Interpret: Helene Fischer
+    Spiellänge: 56
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Rueckgabevorgang Details: 
+CD:
+    Titel: Hard candy
+    Kommentar: besser
+    Interpret: Madonna
+    Spiellänge: 65
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Rueckgabevorgang Details: 
+Videospiel:
+    Titel: League of Legends
+    Kommentar: Ein Konkurrent zum Salar de Uyuni...
+    System: Mac OSX
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Rueckgabevorgang Details: 
+Videospiel:
+    Titel: Mario Kart
+    Kommentar:  Neue Strecken, neue Rennfahrer, neue Fahrzeuge und 12-Spieler-Rennen
+    System:  Wii
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Rueckgabevorgang Details: 
+Videospiel:
+    Titel: Grand Theft Auto V
+    Kommentar: Uncut
+    System: Windows 7/8/10
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Rueckgabevorgang Details: 
+Videospiel:
+    Titel: Rainbow Six Siege
+    Kommentar: Der gefeierte Taktik-Shooter
+    System: Windows 7/8/10
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Rueckgabevorgang Details: 
+DVD:
+    Titel: Thor: Tag der Entscheidung
+    Kommentar: Thor verliert seinen Hammer! Wie soll er jetzt die Welt retten?
+    Regisseur: Taika Waititi
+    Laufzeit: 140
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Rueckgabevorgang Details: 
+CD:
+    Titel: Evolve
+    Kommentar: gut
+    Interpret: Imagine Dragons
+    Spiellänge: 43
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Rueckgabevorgang Details: 
+Videospiel:
+    Titel: The Last of Us
+    Kommentar:  Eines der bestbewerteten Videospiele überhaupt
+    System: Playstation 4
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Rueckgabevorgang Details: 
+CD:
+    Titel: Gute Nacht
+    Kommentar: Sechstes Soloalbum
+    Interpret: Kontra K
+    Spiellänge: 56
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Rueckgabevorgang Details: 
+Videospiel:
+    Titel: FIFA 18
+    Kommentar: Geh in FIFA 18 auf den Platz und spiel professionellen Fußball, so wie du ihn dir vorstellst.
+    System: Playstation 4
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Rueckgabevorgang Details: 
+DVD:
+    Titel: James Bond - Ein Quantum Trost
+    Kommentar: Ein Quantum Trost setzt da an, wo Casino Royale endet
+    Regisseur: Marc Forster
+    Laufzeit: 110
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Rueckgabevorgang Details: 
+Videospiel:
+    Titel: Dark Souls III
+    Kommentar: Kein Spiel für jemanden mit einem niedrigen Frustrationslevel
+    System: Xbox One
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Rueckgabevorgang Details: 
+DVD:
+    Titel: James Bond - Spectre
+    Kommentar: James Bond muss sich ein weiteres mal beweisen
+    Regisseur: Sam Mendes
+    Laufzeit: 148
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Rueckgabevorgang Details: 
+DVD:
+    Titel: Dunkirk
+    Kommentar: Mit einer Bewertung von 83% auf Rotten Tomatoes einer der besten Filme 2017
+    Regisseur: Christopher Nolan
+    Laufzeit: 107
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Rueckgabevorgang Details: 
+DVD:
+    Titel: Shape of Water
+    Kommentar: Der mit einem Oscar ausgezeichnete Blockbuster
+    Regisseur: Guillermo Del Toro
+    Laufzeit: 110
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Ausleihvorgang Details: 
+DVD:
+    Titel: Thor: Tag der Entscheidung
+    Kommentar: Thor verliert seinen Hammer. Wie soll er jetzt die Welt retten?
+    Regisseur: Taika Waititi
+    Laufzeit: 140
+am 4.5.2024 verliehen an
+    Kundennummer: 123460
+    Name: Katarina Klum
+    Telefon: unbekannt
+    Anschrift:
+    Ottensener Strasse 10
+    22761 Hamburg
+
+Vorgang: Ausleihvorgang Details: 
+Videospiel:
+    Titel: Grand Theft Auto V
+    Kommentar: Uncut
+    System: Windows 7/8/10
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Ausleihvorgang Details: 
+DVD:
+    Titel: Pirates of the Caribbean - Am Ende der Welt
+    Kommentar: Abenteuer des Cpt. Jack Sparrow
+    Regisseur: Gore Verbinski
+    Laufzeit: 160
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Ausleihvorgang Details: 
+DVD:
+    Titel: Thor: Tag der Entscheidung
+    Kommentar: Thor verliert seinen Hammer! Wie soll er jetzt die Welt retten?
+    Regisseur: Taika Waititi
+    Laufzeit: 140
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Ausleihvorgang Details: 
+Videospiel:
+    Titel: League of Legends
+    Kommentar: Ein Konkurrent zum Salar de Uyuni...
+    System: Mac OSX
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Rueckgabevorgang Details: 
+Videospiel:
+    Titel: Grand Theft Auto V
+    Kommentar: Uncut
+    System: Windows 7/8/10
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Rueckgabevorgang Details: 
+Videospiel:
+    Titel: Dark Souls III
+    Kommentar: Kein Spiel für jemanden mit einem niedrigen Frustrationslevel
+    System: Xbox One
+am 3.5.2024 verliehen an
+    Kundennummer: 123460
+    Name: Katarina Klum
+    Telefon: unbekannt
+    Anschrift:
+    Ottensener Strasse 10
+    22761 Hamburg
+
+Vorgang: Rueckgabevorgang Details: 
+DVD:
+    Titel: Pirates of the Caribbean - Am Ende der Welt
+    Kommentar: Abenteuer des Cpt. Jack Sparrow
+    Regisseur: Gore Verbinski
+    Laufzeit: 160
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Rueckgabevorgang Details: 
+DVD:
+    Titel: Thor: Tag der Entscheidung
+    Kommentar: Thor verliert seinen Hammer! Wie soll er jetzt die Welt retten?
+    Regisseur: Taika Waititi
+    Laufzeit: 140
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Rueckgabevorgang Details: 
+Videospiel:
+    Titel: League of Legends
+    Kommentar: Ein Konkurrent zum Salar de Uyuni...
+    System: Mac OSX
+am 4.5.2024 verliehen an
+    Kundennummer: 123459
+    Name: Julia Schmidt
+    Telefon: unbekannt
+    Anschrift:
+    Julianenallee 22
+    24103 Kiel
+
+Vorgang: Rueckgabevorgang Details: 
+CD:
+    Titel: Hard candy
+    Kommentar: besser
+    Interpret: Madonna
+    Spiellänge: 65
+am 10.4.2024 verliehen an
+    Kundennummer: 123456
+    Name: Susi Sonnenschein
+    Telefon: unbekannt
+    Anschrift:
+    Sonnenallee 20
+    22760 Hamburg
+
+Vorgang: Rueckgabevorgang Details: 
+CD:
+    Titel: Divide
+    Kommentar: Drittes Album des Künstlers
+    Interpret: Ed Sheeran
+    Spiellänge: 47
+am 4.5.2024 verliehen an
+    Kundennummer: 123457
+    Name: Kai Konrad
+    Telefon: unbekannt
+    Anschrift:
+    Kannenweg 23
+    21868 Stade
+
+Vorgang: Ausleihvorgang Details: 
+CD:
+    Titel: CD1
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+
+Vorgang: Ausleihvorgang Details: 
+CD:
+    Titel: CD2
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+
+Vorgang: Rueckgabevorgang Details: 
+CD:
+    Titel: CD1
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+
+Vorgang: Rueckgabevorgang Details: 
+CD:
+    Titel: CD2
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+
+Vorgang: Ausleihvorgang Details: 
+CD:
+    Titel: CD1
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+
+Vorgang: Ausleihvorgang Details: 
+CD:
+    Titel: CD2
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+
+Vorgang: Ausleihvorgang Details: 
+CD:
+    Titel: CD3
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+
