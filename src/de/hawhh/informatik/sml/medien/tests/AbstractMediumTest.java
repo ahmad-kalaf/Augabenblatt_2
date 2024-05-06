@@ -1,10 +1,12 @@
-package de.hawhh.informatik.sml.medien;
+package de.hawhh.informatik.sml.medien.tests;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertTrue;
 import org.junit.Test;
 import de.hawhh.informatik.sml.mediathek.Geldbetrag;
+import de.hawhh.informatik.sml.medien.AbstractMedium;
+import de.hawhh.informatik.sml.medien.Medium;
 
 public abstract class AbstractMediumTest
 {

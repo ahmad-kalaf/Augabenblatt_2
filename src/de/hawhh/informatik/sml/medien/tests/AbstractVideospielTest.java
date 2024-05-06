@@ -1,6 +1,7 @@
-package de.hawhh.informatik.sml.medien;
+package de.hawhh.informatik.sml.medien.tests;
 import static org.junit.Assert.assertEquals;
 import org.junit.Test;
+import de.hawhh.informatik.sml.medien.AbstractVideospiel;
 
 public abstract class AbstractVideospielTest
 {

@@ -1,7 +1,9 @@
-package de.hawhh.informatik.sml.medien;
+package de.hawhh.informatik.sml.medien.tests;
 import static org.junit.Assert.assertEquals;
 import org.junit.Test;
 import de.hawhh.informatik.sml.mediathek.Geldbetrag;
+import de.hawhh.informatik.sml.medien.AbstractVideospiel;
+import de.hawhh.informatik.sml.medien.KonsolenVideospiel;
 
 public class KonsolenVideospielTest extends AbstractVideospielTest
 {
