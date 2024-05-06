@@ -4,9 +4,9 @@ import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertTrue;
 import org.junit.Test;
-import de.hawhh.informatik.sml.mediathek.Geldbetrag;
 import de.hawhh.informatik.sml.mediathek.medien.AbstractMedium;
 import de.hawhh.informatik.sml.mediathek.medien.Medium;
+import de.hawhh.informatik.sml.mediathek.wertklassen.Geldbetrag;
 
 public abstract class AbstractMediumTest
 {

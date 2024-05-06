@@ -1479,3 +1479,139 @@ am 3.4.2009 verliehen an
     Anschrift:
     unbekannt
 
+Vorgang: Ausleihvorgang Details: 
+Videospiel:
+    Titel: Grand Theft Auto V
+    Kommentar: Uncut
+    System: Windows 7/8/10
+am 6.5.2024 verliehen an
+    Kundennummer: 123460
+    Name: Katarina Klum
+    Telefon: unbekannt
+    Anschrift:
+    Ottensener Strasse 10
+    22761 Hamburg
+
+Vorgang: Ausleihvorgang Details: 
+DVD:
+    Titel: Pirates of the Caribbean - Am Ende der Welt
+    Kommentar: Abenteuer des Cpt. Jack Sparrow
+    Regisseur: Gore Verbinski
+    Laufzeit: 160
+am 6.5.2024 verliehen an
+    Kundennummer: 123460
+    Name: Katarina Klum
+    Telefon: unbekannt
+    Anschrift:
+    Ottensener Strasse 10
+    22761 Hamburg
+
+Vorgang: Ausleihvorgang Details: 
+DVD:
+    Titel: Thor: Tag der Entscheidung
+    Kommentar: Thor verliert seinen Hammer! Wie soll er jetzt die Welt retten?
+    Regisseur: Taika Waititi
+    Laufzeit: 140
+am 6.5.2024 verliehen an
+    Kundennummer: 123460
+    Name: Katarina Klum
+    Telefon: unbekannt
+    Anschrift:
+    Ottensener Strasse 10
+    22761 Hamburg
+
+Vorgang: Ausleihvorgang Details: 
+Videospiel:
+    Titel: League of Legends
+    Kommentar: Ein Konkurrent zum Salar de Uyuni...
+    System: Mac OSX
+am 6.5.2024 verliehen an
+    Kundennummer: 123460
+    Name: Katarina Klum
+    Telefon: unbekannt
+    Anschrift:
+    Ottensener Strasse 10
+    22761 Hamburg
+
+Vorgang: Rueckgabevorgang Details: 
+Videospiel:
+    Titel: Grand Theft Auto V
+    Kommentar: Uncut
+    System: Windows 7/8/10
+am 6.5.2024 verliehen an
+    Kundennummer: 123460
+    Name: Katarina Klum
+    Telefon: unbekannt
+    Anschrift:
+    Ottensener Strasse 10
+    22761 Hamburg
+
+Vorgang: Rueckgabevorgang Details: 
+Videospiel:
+    Titel: Dark Souls III
+    Kommentar: Kein Spiel für jemanden mit einem niedrigen Frustrationslevel
+    System: Xbox One
+am 5.5.2024 verliehen an
+    Kundennummer: 123460
+    Name: Katarina Klum
+    Telefon: unbekannt
+    Anschrift:
+    Ottensener Strasse 10
+    22761 Hamburg
+
+Vorgang: Rueckgabevorgang Details: 
+DVD:
+    Titel: Pirates of the Caribbean - Am Ende der Welt
+    Kommentar: Abenteuer des Cpt. Jack Sparrow
+    Regisseur: Gore Verbinski
+    Laufzeit: 160
+am 6.5.2024 verliehen an
+    Kundennummer: 123460
+    Name: Katarina Klum
+    Telefon: unbekannt
+    Anschrift:
+    Ottensener Strasse 10
+    22761 Hamburg
+
+Vorgang: Rueckgabevorgang Details: 
+DVD:
+    Titel: Thor: Tag der Entscheidung
+    Kommentar: Thor verliert seinen Hammer! Wie soll er jetzt die Welt retten?
+    Regisseur: Taika Waititi
+    Laufzeit: 140
+am 6.5.2024 verliehen an
+    Kundennummer: 123460
+    Name: Katarina Klum
+    Telefon: unbekannt
+    Anschrift:
+    Ottensener Strasse 10
+    22761 Hamburg
+
+Vorgang: Rueckgabevorgang Details: 
+DVD:
+    Titel: Thor: Tag der Entscheidung
+    Kommentar: Thor verliert seinen Hammer. Wie soll er jetzt die Welt retten?
+    Regisseur: Taika Waititi
+    Laufzeit: 140
+am 3.5.2024 verliehen an
+    Kundennummer: 123456
+    Name: Susi Sonnenschein
+    Telefon: unbekannt
+    Anschrift:
+    Sonnenallee 20
+    22760 Hamburg
+
+Vorgang: Rueckgabevorgang Details: 
+CD:
+    Titel: Divide
+    Kommentar: Drittes Album des Künstlers
+    Interpret: Ed Sheeran
+    Spiellänge: 47
+am 6.5.2024 verliehen an
+    Kundennummer: 123457
+    Name: Kai Konrad
+    Telefon: unbekannt
+    Anschrift:
+    Kannenweg 23
+    21868 Stade
+

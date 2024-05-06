@@ -1,6 +1,6 @@
 package de.hawhh.informatik.sml.mediathek.medien;
 
-import de.hawhh.informatik.sml.mediathek.Geldbetrag;
+import de.hawhh.informatik.sml.mediathek.wertklassen.Geldbetrag;
 
 /**
  * Ein Medium definiert Eigenschaften, die alle Medien unserer Mediathek
