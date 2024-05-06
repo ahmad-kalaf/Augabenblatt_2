@@ -8,6 +8,7 @@ import de.hawhh.informatik.sml.mediathek.services.ProtokollierException;
 import de.hawhh.informatik.sml.mediathek.services.ServiceObserver;
 import de.hawhh.informatik.sml.mediathek.services.SubWerkzeugObserver;
 import de.hawhh.informatik.sml.mediathek.services.VerleihService;
+import de.hawhh.informatik.sml.mediathek.werkzeuge.ui.AusleiheUI;
 import de.hawhh.informatik.sml.mediathek.wertklassen.Datum;
 import javafx.scene.control.Alert;
 import javafx.scene.control.Alert.AlertType;

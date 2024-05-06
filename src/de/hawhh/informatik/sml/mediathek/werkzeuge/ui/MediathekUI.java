@@ -1,4 +1,4 @@
-package de.hawhh.informatik.sml.mediathek.werkzeuge;
+package de.hawhh.informatik.sml.mediathek.werkzeuge.ui;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
 import javafx.scene.Scene;
@@ -21,7 +21,7 @@ import javafx.stage.Stage;
  * @author SE2-Team, PM2-Team
  * @version SoSe 2024
  */
-class MediathekUI
+public class MediathekUI
 {
     public static final String AUSLEIHE = "Ausleihe-Ansicht";
     public static final String NAME = "PM2-Mediathek 2024 Blatt 02";

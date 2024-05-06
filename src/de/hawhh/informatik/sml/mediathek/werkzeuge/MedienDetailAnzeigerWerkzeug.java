@@ -1,6 +1,7 @@
 package de.hawhh.informatik.sml.mediathek.werkzeuge;
 import java.util.List;
 import de.hawhh.informatik.sml.mediathek.medien.Medium;
+import de.hawhh.informatik.sml.mediathek.werkzeuge.ui.MedienDetailAnzeigerUI;
 import javafx.scene.control.TextArea;
 import javafx.scene.layout.Pane;
 

@@ -1,6 +1,7 @@
 package de.hawhh.informatik.sml.mediathek.werkzeuge;
 
 import de.hawhh.informatik.sml.mediathek.kunden.Kunde;
+import de.hawhh.informatik.sml.mediathek.werkzeuge.ui.KundenDetailAnzeigerUI;
 import javafx.scene.control.TextArea;
 import javafx.scene.layout.Pane;
 

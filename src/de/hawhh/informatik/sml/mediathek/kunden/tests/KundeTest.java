@@ -1,8 +1,10 @@
-package de.hawhh.informatik.sml.mediathek.kunden;
+package de.hawhh.informatik.sml.mediathek.kunden.tests;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotSame;
 
 import org.junit.Test;
+import de.hawhh.informatik.sml.mediathek.kunden.Kunde;
+import de.hawhh.informatik.sml.mediathek.kunden.Kundennummer;
 import de.hawhh.informatik.sml.mediathek.wertklassen.PLZ;
 
 public class KundeTest

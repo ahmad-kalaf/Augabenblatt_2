@@ -2,6 +2,7 @@ package de.hawhh.informatik.sml.mediathek.werkzeuge;
 
 import de.hawhh.informatik.sml.mediathek.kunden.Kunde;
 import de.hawhh.informatik.sml.mediathek.services.KundenstammService;
+import de.hawhh.informatik.sml.mediathek.werkzeuge.ui.KundenauflisterUI;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 import javafx.scene.layout.Pane;

@@ -1,4 +1,4 @@
-package de.hawhh.informatik.sml.mediathek.werkzeuge;
+package de.hawhh.informatik.sml.mediathek.werkzeuge.ui;
 
 import de.hawhh.informatik.sml.mediathek.kunden.Kunde;
 import de.hawhh.informatik.sml.mediathek.kunden.Kundennummer;

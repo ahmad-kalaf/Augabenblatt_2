@@ -1,4 +1,4 @@
-package de.hawhh.informatik.sml.mediathek.werkzeuge;
+package de.hawhh.informatik.sml.mediathek.werkzeuge.ui;
 
 import javafx.geometry.Insets;
 import javafx.scene.control.Label;

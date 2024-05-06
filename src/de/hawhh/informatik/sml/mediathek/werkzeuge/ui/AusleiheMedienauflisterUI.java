@@ -1,4 +1,4 @@
-package de.hawhh.informatik.sml.mediathek.werkzeuge;
+package de.hawhh.informatik.sml.mediathek.werkzeuge.ui;
 
 import de.hawhh.informatik.sml.mediathek.services.AusleiheMedienFormatierer;
 import javafx.beans.property.ReadOnlyObjectWrapper;

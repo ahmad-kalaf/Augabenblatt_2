@@ -1,4 +1,4 @@
-package de.hawhh.informatik.sml.mediathek.werkzeuge;
+package de.hawhh.informatik.sml.mediathek.werkzeuge.ui;
 
 import de.hawhh.informatik.sml.mediathek.kunden.Kunde;
 import de.hawhh.informatik.sml.mediathek.services.Verleihkarte;
@@ -21,7 +21,7 @@ import javafx.scene.layout.VBox;
  * @author SE2-Team, PM2-Team
  * @version SoSe 2024
  */
-class RueckgabeUI
+public class RueckgabeUI
 {
     // UI-Komponenten
     private TextArea _verleihkartenAnzeigerTextArea;

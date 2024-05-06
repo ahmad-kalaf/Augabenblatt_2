@@ -1,4 +1,4 @@
-package de.hawhh.informatik.sml.mediathek.werkzeuge;
+package de.hawhh.informatik.sml.mediathek.werkzeuge.ui;
 
 import javafx.geometry.Insets;
 import javafx.geometry.Orientation;
@@ -20,7 +20,7 @@ import javafx.scene.layout.VBox;
  * @author SE2-Team, PM2-Team
  * @version SoSe 2024
  */
-class AusleiheUI
+public class AusleiheUI
 {
     // UI-Komponenten
     private Button _ausleihButton;

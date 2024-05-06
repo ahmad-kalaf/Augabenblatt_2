@@ -1,9 +1,10 @@
-package de.hawhh.informatik.sml.mediathek.kunden;
+package de.hawhh.informatik.sml.mediathek.kunden.tests;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
+import de.hawhh.informatik.sml.mediathek.kunden.Kundennummer;
 
 /**
  * @author SE2-Team, PM2-Team

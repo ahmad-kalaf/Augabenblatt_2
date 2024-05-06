@@ -1,4 +1,4 @@
-package de.hawhh.informatik.sml.mediathek.werkzeuge;
+package de.hawhh.informatik.sml.mediathek.werkzeuge.ui;
 
 import javafx.geometry.Insets;
 import javafx.scene.control.Label;
@@ -13,7 +13,7 @@ import javafx.scene.layout.Pane;
  * @author SE2-Team, PM2-Team
  * @version SoSe 2024
  */
-class MedienDetailAnzeigerUI
+public class MedienDetailAnzeigerUI
 {
     private Pane _hauptPane;
     private TextArea _medienAnzeigerTextArea;

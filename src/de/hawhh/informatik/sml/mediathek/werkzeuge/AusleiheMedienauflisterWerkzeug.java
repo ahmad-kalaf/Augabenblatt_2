@@ -6,6 +6,7 @@ import de.hawhh.informatik.sml.mediathek.services.AusleiheMedienFormatierer;
 import de.hawhh.informatik.sml.mediathek.services.MedienbestandService;
 import de.hawhh.informatik.sml.mediathek.services.ServiceObserver;
 import de.hawhh.informatik.sml.mediathek.services.VerleihService;
+import de.hawhh.informatik.sml.mediathek.werkzeuge.ui.AusleiheMedienauflisterUI;
 import javafx.beans.InvalidationListener;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
