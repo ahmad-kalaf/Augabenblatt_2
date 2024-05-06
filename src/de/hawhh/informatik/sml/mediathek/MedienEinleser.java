@@ -10,11 +10,11 @@ import java.util.Map;
 import java.util.StringTokenizer;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-import de.hawhh.informatik.sml.medien.CD;
-import de.hawhh.informatik.sml.medien.DVD;
-import de.hawhh.informatik.sml.medien.KonsolenVideospiel;
-import de.hawhh.informatik.sml.medien.Medium;
-import de.hawhh.informatik.sml.medien.PCVideospiel;
+import de.hawhh.informatik.sml.mediathek.medien.CD;
+import de.hawhh.informatik.sml.mediathek.medien.DVD;
+import de.hawhh.informatik.sml.mediathek.medien.KonsolenVideospiel;
+import de.hawhh.informatik.sml.mediathek.medien.Medium;
+import de.hawhh.informatik.sml.mediathek.medien.PCVideospiel;
 
 /**
  * Liest Medien aus einer Textdatei ein. Der MedienEinleser kann CDs, DVDs,

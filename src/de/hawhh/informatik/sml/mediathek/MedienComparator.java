@@ -1,7 +1,7 @@
 package de.hawhh.informatik.sml.mediathek;
 import java.io.Serializable;
 import java.util.Comparator;
-import de.hawhh.informatik.sml.medien.Medium;
+import de.hawhh.informatik.sml.mediathek.medien.Medium;
 
 /**
  * Comparator-Klasse um zwei Medien zu vergleichen, damit sie an der UI sortiert

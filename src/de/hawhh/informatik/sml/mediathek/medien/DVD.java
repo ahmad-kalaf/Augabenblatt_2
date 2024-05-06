@@ -1,4 +1,5 @@
-package de.hawhh.informatik.sml.medien;
+package de.hawhh.informatik.sml.mediathek.medien;
+
 /**
  * Eine {@link DVD} ist ein Medium. Zusätzlich zu den Eigenschaften eines
  * {@link Medium}s erfasst sie Informationen zum Regisseur und zur Laufzeit.

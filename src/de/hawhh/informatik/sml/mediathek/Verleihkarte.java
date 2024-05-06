@@ -1,6 +1,6 @@
 package de.hawhh.informatik.sml.mediathek;
 
-import de.hawhh.informatik.sml.medien.Medium;
+import de.hawhh.informatik.sml.mediathek.medien.Medium;
 
 /**
  * Mit Hilfe von Verleihkarten werden beim Verleih eines Mediums alle relevanten

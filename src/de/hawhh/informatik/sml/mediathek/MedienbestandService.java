@@ -1,6 +1,6 @@
 package de.hawhh.informatik.sml.mediathek;
 import java.util.List;
-import de.hawhh.informatik.sml.medien.Medium;
+import de.hawhh.informatik.sml.mediathek.medien.Medium;
 
 /**
  * Ein Medienbestand-Service ist ein Service, der alle zur Verfügung stehenden

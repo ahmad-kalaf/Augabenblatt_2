@@ -5,7 +5,7 @@
 //
 ///**
 // */
-package de.hawhh.informatik.sml.mediathek;
+package de.hawhh.informatik.sml.mediathek.medien.tests;
 
 public class VideospielTest
 {

@@ -1,6 +1,6 @@
 package de.hawhh.informatik.sml.mediathek;
 import java.util.List;
-import de.hawhh.informatik.sml.medien.Medium;
+import de.hawhh.informatik.sml.mediathek.medien.Medium;
 import javafx.scene.control.TextArea;
 import javafx.scene.layout.Pane;
 

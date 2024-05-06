@@ -9,8 +9,8 @@ import java.util.Collections;
 import java.util.List;
 
 import org.junit.Test;
-import de.hawhh.informatik.sml.medien.CD;
-import de.hawhh.informatik.sml.medien.Medium;
+import de.hawhh.informatik.sml.mediathek.medien.CD;
+import de.hawhh.informatik.sml.mediathek.medien.Medium;
 
 /**
  * @author SE2-Team, PR2-Team, PR2-Team

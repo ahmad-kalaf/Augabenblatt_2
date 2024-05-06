@@ -1,4 +1,4 @@
-package de.hawhh.informatik.sml.medien;
+package de.hawhh.informatik.sml.mediathek.medien;
 /**
  * Eine CD ist ein Medium. Zusätzlich zu den Eigenschaften eines Mediums erfasst
  * sie Informationen zu Spiellänge und Interpret.

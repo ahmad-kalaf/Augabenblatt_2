@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
-import de.hawhh.informatik.sml.medien.Medium;
+import de.hawhh.informatik.sml.mediathek.medien.Medium;
 
 /**
  * Ein DatenEinleser kann verwendet werden um Kunden, Medien und Verleihkarten

@@ -1,8 +1,8 @@
-package de.hawhh.informatik.sml.medien.tests;
+package de.hawhh.informatik.sml.mediathek.medien.tests;
 import static org.junit.Assert.assertEquals;
 import org.junit.Test;
-import de.hawhh.informatik.sml.medien.AbstractMedium;
-import de.hawhh.informatik.sml.medien.CD;
+import de.hawhh.informatik.sml.mediathek.medien.AbstractMedium;
+import de.hawhh.informatik.sml.mediathek.medien.CD;
 
 public class CDTest extends AbstractMediumTest
 {
