@@ -17,4 +17,10 @@ public class PCVideospiel extends AbstractVideospiel
 		}
 		return result;
 	}
+
+	@Override
+	public String getMedienBezeichnung()
+	{
+		return "PCVideospiel";
+	}
 }

@@ -15,4 +15,9 @@ public class KonsolenVideospiel extends AbstractVideospiel
 		int betrag = 700 * (((tage - 1) / 3) + 1);
 		return betrag;
 	}
+	
+	@Override
+	public String getMedienBezeichnung() {
+		return "KonsolenVideospiel";
+	}
 }

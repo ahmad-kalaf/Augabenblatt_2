@@ -7,47 +7,36 @@ import de.hawhh.informatik.sml.mediathek.wertklassen.Geldbetrag;
 
 public class KonsolenVideospielTest extends AbstractVideospielTest
 {
-	private AbstractVideospiel _konsolenSpiel;
-
-	public KonsolenVideospielTest()
-	{
-		_konsolenSpiel = getMedium();
-	}
+	private static final String BEZEICHNUNG = "KonsolenVideospiel";
 	
 	@Test
 	public void testBerechneMietgebuehrAeqKlasseEins()
 	{
-		assertEquals(Geldbetrag.get(900), _konsolenSpiel.berechneMietgebuehr(1));
-		assertEquals(Geldbetrag.get(900), _konsolenSpiel.berechneMietgebuehr(2));
-		assertEquals(Geldbetrag.get(900), _konsolenSpiel.berechneMietgebuehr(3));
+		assertEquals(Geldbetrag.get(900), _videospiel.berechneMietgebuehr(1));
+		assertEquals(Geldbetrag.get(900), _videospiel.berechneMietgebuehr(2));
+		assertEquals(Geldbetrag.get(900), _videospiel.berechneMietgebuehr(3));
 	}
 
 	@Test
 	public void testBerechneMietgebuehrAeqKlasseZwei()
 	{
-		assertEquals(Geldbetrag.get(7200), _konsolenSpiel.berechneMietgebuehr(28));
-		assertEquals(Geldbetrag.get(7200), _konsolenSpiel.berechneMietgebuehr(29));
-		assertEquals(Geldbetrag.get(7200), _konsolenSpiel.berechneMietgebuehr(30));
+		assertEquals(Geldbetrag.get(7200), _videospiel.berechneMietgebuehr(28));
+		assertEquals(Geldbetrag.get(7200), _videospiel.berechneMietgebuehr(29));
+		assertEquals(Geldbetrag.get(7200), _videospiel.berechneMietgebuehr(30));
 	}
 
 	@Test
 	public void testBerechneMietgebuehrGrenzwerteEins()
 	{
-		assertEquals(Geldbetrag.get(900), _konsolenSpiel.berechneMietgebuehr(3));
-		assertEquals(Geldbetrag.get(1600), _konsolenSpiel.berechneMietgebuehr(4));
+		assertEquals(Geldbetrag.get(900), _videospiel.berechneMietgebuehr(3));
+		assertEquals(Geldbetrag.get(1600), _videospiel.berechneMietgebuehr(4));
 	}
 	
 	@Test
 	public void testBerechneMietgebuehrGrenzwerteZwei()
 	{
-		assertEquals(Geldbetrag.get(7200), _konsolenSpiel.berechneMietgebuehr(30));
-		assertEquals(Geldbetrag.get(7900), _konsolenSpiel.berechneMietgebuehr(31));
-	}
-
-	@Test
-	public void testGetMedienBezeichnung()
-	{
-		assertEquals(BEZEICHNUNG, _konsolenSpiel.getMedienBezeichnung());
+		assertEquals(Geldbetrag.get(7200), _videospiel.berechneMietgebuehr(30));
+		assertEquals(Geldbetrag.get(7900), _videospiel.berechneMietgebuehr(31));
 	}
 
 	protected AbstractVideospiel getMedium()
@@ -59,5 +48,10 @@ public class KonsolenVideospielTest extends AbstractVideospielTest
 	protected AbstractVideospiel getVideospiel()
 	{
 		return getMedium();
+	}
+	
+	@Override
+	public String getErweiterteBezeichnung() {
+		return BEZEICHNUNG;
 	}
 }

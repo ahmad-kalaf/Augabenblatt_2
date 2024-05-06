@@ -1615,3 +1615,450 @@ am 6.5.2024 verliehen an
     Kannenweg 23
     21868 Stade
 
+Vorgang: Ausleihvorgang Details: 
+CD:
+    Titel: CD1
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+
+Vorgang: Ausleihvorgang Details: 
+CD:
+    Titel: CD2
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+
+Vorgang: Rueckgabevorgang Details: 
+CD:
+    Titel: CD1
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+
+Vorgang: Rueckgabevorgang Details: 
+CD:
+    Titel: CD2
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+
+Vorgang: Ausleihvorgang Details: 
+CD:
+    Titel: CD1
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+
+Vorgang: Ausleihvorgang Details: 
+CD:
+    Titel: CD2
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+
+Vorgang: Ausleihvorgang Details: 
+CD:
+    Titel: CD3
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+
+Vorgang: Ausleihvorgang Details: 
+DVD:
+    Titel: James Bond - Ein Quantum Trost
+    Kommentar: Ein Quantum Trost setzt da an, wo Casino Royale endet
+    Regisseur: Marc Forster
+    Laufzeit: 110
+am 6.5.2024 verliehen an
+    Kundennummer: 123457
+    Name: Kai Konrad
+    Telefon: unbekannt
+    Anschrift:
+    Kannenweg 23
+    21868 Stade
+
+Vorgang: Rueckgabevorgang Details: 
+DVD:
+    Titel: Thor: Tag der Entscheidung
+    Kommentar: Thor verliert seinen Hammer. Wie soll er jetzt die Welt retten?
+    Regisseur: Taika Waititi
+    Laufzeit: 140
+am 3.5.2024 verliehen an
+    Kundennummer: 123456
+    Name: Susi Sonnenschein
+    Telefon: unbekannt
+    Anschrift:
+    Sonnenallee 20
+    22760 Hamburg
+
+6.5.2024Vorgang: Ausleihvorgang Details: 
+DVD:
+    Titel: James Bond - Ein Quantum Trost
+    Kommentar: Ein Quantum Trost setzt da an, wo Casino Royale endet
+    Regisseur: Marc Forster
+    Laufzeit: 110
+am 6.5.2024 verliehen an
+    Kundennummer: 123457
+    Name: Kai Konrad
+    Telefon: unbekannt
+    Anschrift:
+    Kannenweg 23
+    21868 Stade
+
+Vorgang: Ausleihvorgang Datum: 6.5.2024
+ Details: 
+DVD:
+    Titel: James Bond - Ein Quantum Trost
+    Kommentar: Ein Quantum Trost setzt da an, wo Casino Royale endet
+    Regisseur: Marc Forster
+    Laufzeit: 110
+am 6.5.2024 verliehen an
+    Kundennummer: 123461
+    Name: Anna Kurnikowa
+    Telefon: unbekannt
+    Anschrift:
+    Osterweg 1
+    22670 Hamburg
+
+Vorgang: Ausleihvorgang Datum: 6.5.2024
+ Details: 
+CD:
+    Titel: The Classics
+    Kommentar: Filmmusik von Hans Zimmer interpretiert von diversen Künstlern.
+    Interpret: Hans Zimmer
+    Spiellänge: 70
+am 6.5.2024 verliehen an
+    Kundennummer: 123461
+    Name: Anna Kurnikowa
+    Telefon: unbekannt
+    Anschrift:
+    Osterweg 1
+    22670 Hamburg
+
+Vorgang: Ausleihvorgang Datum: 6.5.2024
+Details: 
+CD:
+    Titel: CD1
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+
+Vorgang: Ausleihvorgang Datum: 6.5.2024
+Details: 
+CD:
+    Titel: CD2
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+
+Vorgang: Rueckgabevorgang Datum: 6.5.2024
+Details: 
+CD:
+    Titel: CD1
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+
+Vorgang: Rueckgabevorgang Datum: 6.5.2024
+Details: 
+CD:
+    Titel: CD2
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+
+Vorgang: Ausleihvorgang Datum: 6.5.2024
+Details: 
+CD:
+    Titel: CD1
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+
+Vorgang: Ausleihvorgang Datum: 6.5.2024
+Details: 
+CD:
+    Titel: CD2
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+
+Vorgang: Ausleihvorgang Datum: 6.5.2024
+Details: 
+CD:
+    Titel: CD3
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+
+Vorgang: Ausleihvorgang Datum: 6.5.2024
+Details: 
+CD:
+    Titel: CD1
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+
+Vorgang: Ausleihvorgang Datum: 6.5.2024
+Details: 
+CD:
+    Titel: CD2
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+
+Vorgang: Rueckgabevorgang Datum: 6.5.2024
+Details: 
+CD:
+    Titel: CD1
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+
+Vorgang: Rueckgabevorgang Datum: 6.5.2024
+Details: 
+CD:
+    Titel: CD2
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+
+Vorgang: Ausleihvorgang Datum: 6.5.2024
+Details: 
+CD:
+    Titel: CD1
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+
+Vorgang: Ausleihvorgang Datum: 6.5.2024
+Details: 
+CD:
+    Titel: CD2
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+
+Vorgang: Ausleihvorgang Datum: 6.5.2024
+Details: 
+CD:
+    Titel: CD3
+    Kommentar: baz
+    Interpret: foo
+    Spiellänge: 123
+am 3.4.2009 verliehen an
+    Kundennummer: 123456
+    Name: ich du
+    Telefon: unbekannt
+    Anschrift:
+    unbekannt
+
+Vorgang: Ausleihvorgang Datum: 6.5.2024
+Details: 
+CD:
+    Titel: Evolve
+    Kommentar: gut
+    Interpret: Imagine Dragons
+    Spiellänge: 43
+am 6.5.2024 verliehen an
+    Kundennummer: 123461
+    Name: Anna Kurnikowa
+    Telefon: unbekannt
+    Anschrift:
+    Osterweg 1
+    22670 Hamburg
+
+Vorgang: Rueckgabevorgang Datum: 6.5.2024
+Details: 
+CD:
+    Titel: Divide
+    Kommentar: Drittes Album des Künstlers
+    Interpret: Ed Sheeran
+    Spiellänge: 47
+am 6.5.2024 verliehen an
+    Kundennummer: 123457
+    Name: Kai Konrad
+    Telefon: unbekannt
+    Anschrift:
+    Kannenweg 23
+    21868 Stade
+
+Vorgang: Rueckgabevorgang Datum: 6.5.2024
+Details: 
+KonsolenVideospiel:
+    Titel: Dark Souls III
+    Kommentar: Kein Spiel für jemanden mit einem niedrigen Frustrationslevel
+    System: Xbox One
+am 5.5.2024 verliehen an
+    Kundennummer: 123460
+    Name: Katarina Klum
+    Telefon: unbekannt
+    Anschrift:
+    Ottensener Strasse 10
+    22761 Hamburg
+
+Vorgang: Rueckgabevorgang Datum: 6.5.2024
+Details: 
+KonsolenVideospiel:
+    Titel: The Last of Us
+    Kommentar:  Eines der bestbewerteten Videospiele überhaupt
+    System: Playstation 4
+am 4.5.2024 verliehen an
+    Kundennummer: 123457
+    Name: Kai Konrad
+    Telefon: unbekannt
+    Anschrift:
+    Kannenweg 23
+    21868 Stade
+
+Vorgang: Rueckgabevorgang Datum: 6.5.2024
+Details: 
+DVD:
+    Titel: Thor: Tag der Entscheidung
+    Kommentar: Thor verliert seinen Hammer. Wie soll er jetzt die Welt retten?
+    Regisseur: Taika Waititi
+    Laufzeit: 140
+am 3.5.2024 verliehen an
+    Kundennummer: 123456
+    Name: Susi Sonnenschein
+    Telefon: unbekannt
+    Anschrift:
+    Sonnenallee 20
+    22760 Hamburg
+
+Vorgang: Ausleihvorgang Datum: 6.5.2024
+Details: 
+CD:
+    Titel: Helene Fischer
+    Kommentar: Das lange erwartete Album der beispiellosen Künstlerin
+    Interpret: Helene Fischer
+    Spiellänge: 56
+am 6.5.2024 verliehen an
+    Kundennummer: 123460
+    Name: Katarina Klum
+    Telefon: unbekannt
+    Anschrift:
+    Ottensener Strasse 10
+    22761 Hamburg
+

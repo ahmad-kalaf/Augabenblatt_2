@@ -85,17 +85,8 @@ public abstract class AbstractMedium implements Medium
 		_kommentar = kommentar;
 	}
 
-	/**
-	 * Gibt die Bezeichnung für die Medienart zurück.
-	 * 
-	 * @return Die Bezeichnung für die Medienart.
-	 * 
-	 * @ensure result != null
-	 */
-	public String getMedienBezeichnung()
-	{
-		return "AbstractMedium";
-	}
+	@Override
+	public abstract String getMedienBezeichnung();
 
 	/**
 	 * Gibt den Titel des Mediums zurück.

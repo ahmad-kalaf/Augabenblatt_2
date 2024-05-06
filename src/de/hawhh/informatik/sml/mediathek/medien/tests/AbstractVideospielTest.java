@@ -7,9 +7,9 @@ public abstract class AbstractVideospielTest
 {
 	protected static final String KOMMENTAR = "Kommentar";
 	protected static final String TITEL = "Titel";
-	protected static final String BEZEICHNUNG = "Videospiel";
+//	protected static final String BEZEICHNUNG = "Videospiel";
 	protected static final String SYSTEM = "System";
-	private AbstractVideospiel _videospiel;
+	protected AbstractVideospiel _videospiel;
 
 	public AbstractVideospielTest()
 	{
@@ -17,6 +17,7 @@ public abstract class AbstractVideospielTest
 	}
 
 	protected abstract AbstractVideospiel getVideospiel();
+	protected abstract String getErweiterteBezeichnung();
 
 	@Test
 	public void testeVideospiel()
@@ -29,7 +30,7 @@ public abstract class AbstractVideospielTest
 	@Test
 	public void testGetMedienBezeichnung()
 	{
-		assertEquals(BEZEICHNUNG, _videospiel.getMedienBezeichnung());
+		assertEquals(getErweiterteBezeichnung(), _videospiel.getMedienBezeichnung());
 	}
 
 	@Test
