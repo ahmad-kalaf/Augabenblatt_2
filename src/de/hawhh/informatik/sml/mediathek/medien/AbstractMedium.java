@@ -13,19 +13,25 @@ public abstract class AbstractMedium implements Medium
 	 * 
 	 */
 	private String _titel;
+	
+	private String _bezeichnung;
 
 	/**
-	 * Initialisiert ein AbstractMedium requier titel != null requier kommentar
+	 * Initialisiert ein AbstractMedium 
+	 * requier titel != null 
+	 * requier kommentar
 	 * != null
 	 * 
-	 * ensure getKommentar != null ensure getTitel != null
+	 * ensure getKommentar() == kommentar
+	 * ensure getTitel() != null
 	 */
-	public AbstractMedium(String titel, String kommentar)
+	protected AbstractMedium(String titel, String kommentar, String bezeichnung)
 	{
 		assert titel != null : "Vorbedingung verletzt: titel != null";
 		assert kommentar != null : "Vorbedingung verletzt: kommentar != null";
 		_titel = titel;
 		_kommentar = kommentar;
+		_bezeichnung = bezeichnung;
 	}
 
 	/**
@@ -55,7 +61,7 @@ public abstract class AbstractMedium implements Medium
 	 */
 	public String getFormatiertenString()
 	{
-		return getMedienBezeichnung() + ":\n" + "    " + "Titel: " + _titel
+		return _bezeichnung + ":\n" + "    " + "Titel: " + _titel
 				+ "\n" + "    " + "Kommentar: " + _kommentar + "\n";
 	}
 
@@ -85,8 +91,10 @@ public abstract class AbstractMedium implements Medium
 		_kommentar = kommentar;
 	}
 
-	@Override
-	public abstract String getMedienBezeichnung();
+	
+	public String getMedienBezeichnung() {
+		return _bezeichnung;
+	}
 
 	/**
 	 * Gibt den Titel des Mediums zurück.

@@ -7,68 +7,65 @@ import de.hawhh.informatik.sml.mediathek.wertklassen.Geldbetrag;
 
 public class PCVideospielTest extends AbstractVideospielTest
 {
-	
-	private static final String BEZEICHNUNG = "PCVideospiel";
 
 	public PCVideospielTest()
 	{
 	}
+	
+	@Override
+    public AbstractVideospiel erzeugeVideospiel() {
+    	return new PCVideospiel(TITEL, KOMMENTAR, SYSTEM);
+    }
+    
+    
+    @Test @Override
+    public void testBerechneMietgebuehr()
+    {    			
+    	assertEquals(Geldbetrag.get(700), _medium1.berechneMietgebuehr(10));
+    	assertEquals(Geldbetrag.get(1700), _medium1.berechneMietgebuehr(20));
+    	assertEquals(Geldbetrag.get(2700), _medium1.berechneMietgebuehr(30));
+    }
 
 	@Test
 	public void testBerechneMietgebuehrErsteSiebenTage()
 	{
 		for(int i = 1; i <= 7; i++) {
-			assertEquals(Geldbetrag.get(200), _videospiel.berechneMietgebuehr(i));
+			assertEquals(Geldbetrag.get(200), _medium1.berechneMietgebuehr(i));
 		}
 	}
 
 	@Test
 	public void testBerechneMietgebuehrAeqKlasseEins()
 	{
-		assertEquals(Geldbetrag.get(700), _videospiel.berechneMietgebuehr(8));
-		assertEquals(Geldbetrag.get(700), _videospiel.berechneMietgebuehr(9));
-		assertEquals(Geldbetrag.get(700), _videospiel.berechneMietgebuehr(10));
-		assertEquals(Geldbetrag.get(700), _videospiel.berechneMietgebuehr(11));
-		assertEquals(Geldbetrag.get(700), _videospiel.berechneMietgebuehr(12));
+		assertEquals(Geldbetrag.get(700), _medium1.berechneMietgebuehr(8));
+		assertEquals(Geldbetrag.get(700), _medium1.berechneMietgebuehr(9));
+		assertEquals(Geldbetrag.get(700), _medium1.berechneMietgebuehr(10));
+		assertEquals(Geldbetrag.get(700), _medium1.berechneMietgebuehr(11));
+		assertEquals(Geldbetrag.get(700), _medium1.berechneMietgebuehr(12));
 	}
 
 	@Test
 	public void testBerechneMietgebuehrAeqKlasseZwei()
 	{
-		assertEquals(Geldbetrag.get(2200), _videospiel.berechneMietgebuehr(23));
-		assertEquals(Geldbetrag.get(2200), _videospiel.berechneMietgebuehr(24));
-		assertEquals(Geldbetrag.get(2200), _videospiel.berechneMietgebuehr(25));
-		assertEquals(Geldbetrag.get(2200), _videospiel.berechneMietgebuehr(26));
-		assertEquals(Geldbetrag.get(2200), _videospiel.berechneMietgebuehr(27));
+		assertEquals(Geldbetrag.get(2200), _medium1.berechneMietgebuehr(23));
+		assertEquals(Geldbetrag.get(2200), _medium1.berechneMietgebuehr(24));
+		assertEquals(Geldbetrag.get(2200), _medium1.berechneMietgebuehr(25));
+		assertEquals(Geldbetrag.get(2200), _medium1.berechneMietgebuehr(26));
+		assertEquals(Geldbetrag.get(2200), _medium1.berechneMietgebuehr(27));
 	}
 
 	@Test
 	public void testBerechneMietgebuehrGrenzwerteEins()
 	{
-		assertEquals(Geldbetrag.get(200), _videospiel.berechneMietgebuehr(7));
-		assertEquals(Geldbetrag.get(700), _videospiel.berechneMietgebuehr(8));
+		assertEquals(Geldbetrag.get(200), _medium1.berechneMietgebuehr(7));
+		assertEquals(Geldbetrag.get(700), _medium1.berechneMietgebuehr(8));
 	}
 
 	@Test
 	public void testBerechneMietgebuehrGrenzwerteZwei()
 	{
-		assertEquals(Geldbetrag.get(2200), _videospiel.berechneMietgebuehr(27));
-		assertEquals(Geldbetrag.get(2700), _videospiel.berechneMietgebuehr(28));
+		assertEquals(Geldbetrag.get(2200), _medium1.berechneMietgebuehr(27));
+		assertEquals(Geldbetrag.get(2700), _medium1.berechneMietgebuehr(28));
 	}
 
-	protected AbstractVideospiel getMedium()
-	{
-		return new PCVideospiel(TITEL, KOMMENTAR, SYSTEM);
-	}
-
-	@Override
-	protected AbstractVideospiel getVideospiel()
-	{
-		return getMedium();
-	}
-	
-	@Override
-	public String getErweiterteBezeichnung() {
-		return BEZEICHNUNG;
-	}
 }

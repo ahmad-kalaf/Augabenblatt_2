@@ -13,66 +13,67 @@ public abstract class AbstractMediumTest
 	protected static final String KOMMENTAR = "Kommentar";
 	protected static final String TITEL = "Titel";
 	protected static final int LAENGE = 100;
-	private final AbstractMedium _medium;
-	private final AbstractMedium _medium1;
-
+	protected AbstractMedium _medium1;
+	protected AbstractMedium _medium2;
+	
+	/**
+	 * Initializiere neue Median
+	 * @param medium
+	 */
 	public AbstractMediumTest()
 	{
-		_medium = getMedium();
-		_medium1 = getMedium();
+		_medium1 = erzeugeMedium();
+		_medium2 = erzeugeMedium();
 	}
 
-	protected abstract AbstractMedium getMedium();
+	
+	public abstract AbstractMedium erzeugeMedium();
+	
+	/**
+     * Test die Mietgebür für eine angegebene Mietdauer
+     * 
+     * @param mietTage
+     */
+    @Test
+    public void testBerechneMietgebuehr()
+    {    			
+    	assertEquals(Geldbetrag.get(900), _medium1.berechneMietgebuehr(3));
+    	assertEquals(Geldbetrag.get(300), _medium1.berechneMietgebuehr(1));
+    	assertEquals(Geldbetrag.get(1200), _medium1.berechneMietgebuehr(4));
+    }
 
-	@Test
-	public void testEinTagMiete()
-	{
-		assertEquals(Geldbetrag.get(300 * 1), _medium.berechneMietgebuehr(1));
-	}
+    @Test
+    public void testKonstruktor()
+    {
+        assertEquals(TITEL, _medium1.getTitel());
+        assertEquals(KOMMENTAR, _medium1.getKommentar());
+    }
 
-	@Test
-	public void testZweiTageMiete()
-	{
-		assertEquals(Geldbetrag.get(300 * 2), _medium.berechneMietgebuehr(2));
-	}
+    @Test
+    public void testSetter()
+    {
+    	_medium1.setKommentar("Kommentar2");
+        assertEquals(_medium1.getKommentar(), "Kommentar2");
+        _medium1.setTitel("Titel2");
+        assertEquals(_medium1.getTitel(), "Titel2");
+    }
 
-	@Test
-	public void testDreizigTageMiete()
-	{
-		assertEquals(Geldbetrag.get(300 * 30), _medium.berechneMietgebuehr(30));
-	}
-
-	@Test
-	public void testTitelUndKommentar()
-	{
-		assertEquals(TITEL, _medium.getTitel());
-		assertEquals(KOMMENTAR, _medium.getKommentar());
-	}
-
-	public final void testTitelKommentarSetter()
-	{
-		_medium.setTitel("Titel2");
-		assertEquals(_medium.getTitel(), "Titel2");
-		_medium.setKommentar("Kommentar2");
-		assertEquals(_medium.getKommentar(), "Kommentar2");
-	}
-
-	/*
-	 * Von ein und der selben CD kann es mehrere Exemplare geben, die von
-	 * unterschiedlichen Personen ausgeliehen werden können.
-	 */
-	public void testEquals()
-	{
-		assertFalse("Mehrere Exemplare der gleichen CD sind ungleich",
-				_medium.equals(_medium1));
-		assertTrue("Dasselbe Exemplare der gleichen CD ist gleich",
-				_medium.equals(_medium1));
-	}
-
-	@Test
-	public final void testGetFormatiertenString()
-	{
-		Medium medium = getMedium();
-		assertNotNull(medium.getFormatiertenString());
-	}
+    @Test
+    /*
+     * Von ein und der selben DVD kann es mehrere Exemplare geben, die von
+     * unterschiedlichen Personen ausgeliehen werden können.
+     */
+    public void testEquals()
+    {
+        assertFalse("Mehrere Exemplare der gleichen DVD sind gleich",
+                _medium1.equals(_medium2));
+        assertTrue("Mehrere Exemplare der gleichen DVD sind ungleich",
+        		!_medium1.equals(_medium2));
+    }
+    
+    @Test
+    public final void testGetFormatiertenString()
+    {
+        assertNotNull(erzeugeMedium().getFormatiertenString());
+    }
 }

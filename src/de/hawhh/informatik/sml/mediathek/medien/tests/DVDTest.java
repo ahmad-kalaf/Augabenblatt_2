@@ -6,46 +6,36 @@ import de.hawhh.informatik.sml.mediathek.medien.DVD;
 
 public class DVDTest extends AbstractMediumTest
 {
-	private static final String BEZEICHNUNG = "DVD";
-	private static final String REGISSEUR = "DVD Regisseur";
-	private DVD _dvd1;
-
-	public DVDTest()
+	private static final String DVD_BEZEICHNUNG = "DVD";
+    private static final String REGISSEUR = "DVD Regisseur";
+    
+    public DVDTest()
 	{
-		_dvd1 = getDVD();
+		super();
 	}
+	
+    
+    @Override
+    public AbstractMedium erzeugeMedium() {
+    	return new DVD(TITEL, KOMMENTAR, REGISSEUR, LAENGE);
+    }
+    
+    @Test @Override
+    public void testKonstruktor()
+    {
+        super.testKonstruktor();
+        assertEquals(LAENGE, ((DVD) _medium1).getLaufzeit());
+        assertEquals(REGISSEUR, ((DVD) _medium1).getRegisseur());
+    }
 
-	@Test
-	public void testGetMedienBezeichnung()
-	{
-		String dvdBezeichnung = BEZEICHNUNG;
-		assertEquals(dvdBezeichnung, _dvd1.getMedienBezeichnung());
-	}
+    @Test @Override
+    public final void testSetter()
+    {
+    	super.testSetter();
+    	((DVD) _medium1).setLaufzeit(90);
+        assertEquals(90, ((DVD) _medium1).getLaufzeit());
+        ((DVD) _medium1).setRegisseur("Regisseur2");
+        assertEquals("Regisseur2", ((DVD) _medium1).getRegisseur());
+    }
 
-	@Test
-	public void testKonstruktor()
-	{
-		assertEquals(LAENGE, _dvd1.getLaufzeit());
-		assertEquals(REGISSEUR, _dvd1.getRegisseur());
-	}
-
-	@Test
-	public final void testSetter()
-	{
-		_dvd1.setLaufzeit(90);
-		assertEquals(90, _dvd1.getLaufzeit());
-		_dvd1.setRegisseur("Regisseur2");
-		assertEquals("Regisseur2", _dvd1.getRegisseur());
-	}
-
-	protected DVD getDVD()
-	{
-		return new DVD(TITEL, KOMMENTAR, REGISSEUR, LAENGE);
-	}
-
-	@Override
-	protected AbstractMedium getMedium()
-	{
-		return getDVD();
-	}
 }

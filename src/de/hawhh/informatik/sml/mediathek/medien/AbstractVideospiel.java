@@ -35,9 +35,9 @@ public abstract class AbstractVideospiel extends AbstractMedium
 	 * @ensure getKommentar() == kommentar
 	 * @ensure getSystem() == system
 	 */
-	public AbstractVideospiel(String titel, String kommentar, String system)
+	protected AbstractVideospiel(String titel, String kommentar, String system, String bezeichnung)
 	{
-		super(titel, kommentar);
+		super(titel, kommentar, bezeichnung);
 		assert system != null : "Vorbedingung verletzt: system != null";
 		_system = system;
 	}
@@ -52,7 +52,7 @@ public abstract class AbstractVideospiel extends AbstractMedium
 	 * 
 	 * @ensure result != null
 	 */
-	public abstract int getPreisNachTagen(int tage); 
+	protected abstract int getPreisNachTagen(int tage); 
 
 	@Override
 	public Geldbetrag berechneMietgebuehr(int tage)
@@ -61,13 +61,6 @@ public abstract class AbstractVideospiel extends AbstractMedium
 		// Schablonenmethode: berechneMietgebuehr(int)
 		return Geldbetrag.get(BASISPREIS + getPreisNachTagen(tage));
 	}
-
-	@Override
-	public String getMedienBezeichnung()
-	{
-		return "Videospiel";
-	}
-
 	/**
 	 * Gibt das System zurück, auf dem das Spiel lauffähig ist.
 	 * 

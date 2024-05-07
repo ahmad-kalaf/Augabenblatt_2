@@ -1,7 +1,8 @@
 package de.hawhh.informatik.sml.mediathek.services;
 import java.io.FileWriter;
 import java.io.IOException;
-import de.hawhh.informatik.sml.mediathek.wertklassen.Datum;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 
 /**
  * Diese Klasse ist zustaendig für die Protokollierung der Ausleih- und
@@ -23,18 +24,23 @@ public class VerleihProtokollierer
 	 * @require ereignis != null
 	 * @require verleihkarte != null
 	 */
-	public void protokolliere(String ereignis, Verleihkarte verleihkarte)
-			throws ProtokollierException
+	public void protokolliere(VerleihEreignis ereignis,
+			Verleihkarte verleihkarte) throws ProtokollierException
 	{
 		assert ereignis != null : "Vorbedingung verletzt: ereignis != null";
 		assert verleihkarte != null
 				: "Vorbedingung verletzt: verleihkarte != null";
-		Datum heute = Datum.heute();
+		Date currentDate = new Date();
+		SimpleDateFormat dateFormat = new SimpleDateFormat(
+				"yyyy-MM-dd HH:mm:ss");
+		String currentDateTime = dateFormat.format(currentDate);
 		try(FileWriter _fileWriter = new FileWriter("./bestand/protokolle.txt",
 				true))
 		{
-			_fileWriter.write("Vorgang: " + ereignis + " Datum: " + heute + "\n" + "Details: \n"
-					+ verleihkarte.getFormatiertenString() + "\n");
+			_fileWriter.write("Vorgang: " + ereignis + "\n"
+					+ "Datum und Uhrzeit: " + currentDateTime + "\n"
+					+ "Details: \n" + verleihkarte.getFormatiertenString()
+					+ "---------------------------------------------------\n");
 		} catch(IOException e)
 		{
 			throw new ProtokollierException(e.getMessage());

@@ -115,7 +115,7 @@ public class VerleihServiceImpl extends AbstractObservableService
 				: "Vorbedingung verletzt: rueckgabeDatum != null";
 		for(Medium medium : medien)
 		{
-			_protokollierer.protokolliere("Rueckgabevorgang",
+			_protokollierer.protokolliere(VerleihEreignis.RUECKGABE,
 					_verleihkarten.get(medium));
 			_verleihkarten.remove(medium);
 		}
@@ -170,7 +170,7 @@ public class VerleihServiceImpl extends AbstractObservableService
 			Verleihkarte verleihkarte = new Verleihkarte(kunde, medium,
 					ausleihDatum);
 			_verleihkarten.put(medium, verleihkarte);
-			_protokollierer.protokolliere("Ausleihvorgang", verleihkarte);
+			_protokollierer.protokolliere(VerleihEreignis.AUSLEIHE, verleihkarte);
 		}
 		informiereUeberAenderung();
 	}

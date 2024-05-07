@@ -6,7 +6,7 @@ package de.hawhh.informatik.sml.mediathek.medien;
  * @author SE2-Team, PM2-Team
  * @version SoSe 2024
  */
-public class CD extends AbstractMedium
+public class CD extends AbstractMedium implements Medium
 {
 	/**
 	 * Der Interpret der CD
@@ -37,7 +37,7 @@ public class CD extends AbstractMedium
 	 */
 	public CD(String titel, String kommentar, String interpret, int spiellaenge)
 	{
-		super(titel, kommentar);
+		super(titel, kommentar, "CD");
 		assert interpret != null : "Vorbedingung verletzt: interpret != null";
 		assert spiellaenge > 0 : "Vorbedingung verletzt: spiellaenge > 0";
 		_spiellaenge = spiellaenge;
@@ -68,12 +68,6 @@ public class CD extends AbstractMedium
 	{
 		assert interpret != null : "Vorbedingung verletzt: interpret != null";
 		_interpret = interpret;
-	}
-
-	@Override
-	public String getMedienBezeichnung()
-	{
-		return "CD";
 	}
 
 	/**

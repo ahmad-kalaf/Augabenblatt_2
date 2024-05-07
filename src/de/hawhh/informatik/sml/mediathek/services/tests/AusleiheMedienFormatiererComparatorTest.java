@@ -24,7 +24,7 @@ public class AusleiheMedienFormatiererComparatorTest
     private CD _cd2;
     private CD _cd3;
     private DVD _dvd;
-    private AbstractVideospiel _videospiel;
+    private AbstractVideospiel _medium1;
     private AusleiheMedienFormatiererComparator _medienComparator;
 
     public AusleiheMedienFormatiererComparatorTest()
@@ -35,7 +35,7 @@ public class AusleiheMedienFormatiererComparatorTest
         _cd3 = new CD("Titel b", "Kommentar", "Interpret", 100);
 
         _dvd = new DVD("Titel a", "Kommentar", "Regisseur", 100);
-        _videospiel = new KonsolenVideospiel("Titel a", "Kommentar", "Wii");
+        _medium1 = new KonsolenVideospiel("Titel a", "Kommentar", "Wii");
 
         _medienComparator = new AusleiheMedienFormatiererComparator();
     }
@@ -57,7 +57,7 @@ public class AusleiheMedienFormatiererComparatorTest
         assertTrue(_medienComparator.compare(erzeugeFormatierer(_cd2),
                 erzeugeFormatierer(_dvd)) < 0);
         assertTrue(_medienComparator.compare(erzeugeFormatierer(_dvd),
-                erzeugeFormatierer(_videospiel)) < 0);
+                erzeugeFormatierer(_medium1)) < 0);
     }
 
     private AusleiheMedienFormatierer erzeugeFormatierer(Medium medium)

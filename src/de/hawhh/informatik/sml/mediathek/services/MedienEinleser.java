@@ -34,7 +34,7 @@ import de.hawhh.informatik.sml.mediathek.wertklassen.Datum;
  * @author SE2-Team, PM2-Team
  * @version SoSe 2024
  */
-public class MedienEinleser
+class MedienEinleser
 {
 	// Dieses Pattern dient der Überprüfung einer Kundennummer
 	private static final Pattern KUNDENNUMMER_PATTERN = Pattern

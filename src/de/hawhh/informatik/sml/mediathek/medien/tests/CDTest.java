@@ -6,46 +6,34 @@ import de.hawhh.informatik.sml.mediathek.medien.CD;
 
 public class CDTest extends AbstractMediumTest
 {
-	private static final String CD_BEZEICHNUNG = "CD";
 	private static final String INTERPRET = "CD Interpret";
-	private CD _cd1;
 
 	public CDTest()
 	{
-		_cd1 = getCD();
 	}
 
-	@Test
-	public void testGetMedienBezeichnung()
-	{
-		String cdBezeichnung = CD_BEZEICHNUNG;
-		assertEquals(cdBezeichnung, _cd1.getMedienBezeichnung());
-	}
+    @Override
+    public AbstractMedium erzeugeMedium() {
+    	return new CD(TITEL, KOMMENTAR, INTERPRET, LAENGE);
+    }
+    
 
-	@Test
-	public void testKonstruktor()
-	{
-		assertEquals(LAENGE, _cd1.getSpiellaenge());
-		assertEquals(INTERPRET, _cd1.getInterpret());
-	}
+    @Test @Override
+    public void testKonstruktor()
+    {
+    	super.testKonstruktor();
+        assertEquals(LAENGE, ((CD) _medium1).getSpiellaenge());
+        assertEquals(INTERPRET, ((CD) _medium1).getInterpret());
+    }
 
-	@Test
-	public final void testSetter()
-	{
-		_cd1.setInterpret("Interpret2");
-		assertEquals(_cd1.getInterpret(), "Interpret2");
-		_cd1.setSpiellaenge(99);
-		assertEquals(_cd1.getSpiellaenge(), 99);
-	}
+    @Test @Override
+    public final void testSetter()
+    {
 
-	private CD getCD()
-	{
-		return new CD(TITEL, KOMMENTAR, INTERPRET, LAENGE);
-	}
-
-	@Override
-	protected AbstractMedium getMedium()
-	{
-		return getCD();
-	}
+    	super.testSetter();
+        ((CD) _medium1).setInterpret("Interpret2");
+        assertEquals(((CD) _medium1).getInterpret(), "Interpret2");
+        ((CD) _medium1).setSpiellaenge(99);
+        assertEquals(((CD) _medium1).getSpiellaenge(), 99);
+    }
 }

@@ -3,24 +3,17 @@ public class PCVideospiel extends AbstractVideospiel
 {
 	public PCVideospiel(String titel, String kommentar, String system)
 	{
-		super(titel, kommentar, system);
+		super(titel, kommentar, system, "PC-Videospiel");
 	}
 
 	@Override
 	public int getPreisNachTagen(int tage)
 	{
-		int result = 0;
 		if(tage > 7)
 		{
-			int zusatzTage = tage - 7;
-			result = 500 * ((zusatzTage + 4) / 5);
+			return (int)Math.ceil(((double)(tage - 7) / 5)) * 500;
 		}
-		return result;
+		return 0;
 	}
 
-	@Override
-	public String getMedienBezeichnung()
-	{
-		return "PCVideospiel";
-	}
 }

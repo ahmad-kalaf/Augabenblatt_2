@@ -14,7 +14,7 @@ import de.hawhh.informatik.sml.mediathek.medien.Medium;
  * @author SE2-Team, PM2-Team
  * @version SoSe 2024
  */
-public class DatenEinleser
+class DatenEinleser
 {
 
     /**

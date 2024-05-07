@@ -22,7 +22,7 @@ public class MedienComparatorTest
     private CD _cd2;
     private CD _cd3;
     private DVD _dvd;
-    private AbstractVideospiel _videospiel;
+    private AbstractVideospiel _medium1;
     private MedienComparator _medienComparator;
 
     public MedienComparatorTest()
@@ -32,7 +32,7 @@ public class MedienComparatorTest
         _cd3 = new CD("Titel b", "Kommentar", "Interpret", 100);
 
         _dvd = new DVD("Titel a", "Kommentar", "Regisseur", 100);
-        _videospiel = new KonsolenVideospiel("Titel a", "Kommentar", "Wii");
+        _medium1 = new KonsolenVideospiel("Titel a", "Kommentar", "Wii");
 
         _medienComparator = new MedienComparator();
     }
@@ -49,6 +49,6 @@ public class MedienComparatorTest
     public void testCompareVerschiedeneMedien()
     {
         assertTrue(_medienComparator.compare(_cd2, _dvd) < 0);
-        assertTrue(_medienComparator.compare(_dvd, _videospiel) < 0);
+        assertTrue(_medienComparator.compare(_dvd, _medium1) < 0);
     }
 }
